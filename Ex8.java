@@ -19,7 +19,7 @@ public class Ex8
                 soma += aux;
             }
         }
-        return soma;
+        return soma; // porque eu to retornando a soma? se a soma foi inicializada com zero, o que ela ta somado ao auxiliar?
     }
     
     public static boolean numPerfeito (int num){
